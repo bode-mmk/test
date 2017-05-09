@@ -3,7 +3,7 @@
 ### test and prototype code memos
 
 - testコードや、プロトタイプのコード群の置き場所
-- gitのテストとかもしてるためcommit履歴は汚い(かも)
+- gitのテストとかもしてるためcommit履歴は汚い(かもしれない)
 
 ### top
 
