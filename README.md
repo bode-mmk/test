@@ -3,6 +3,8 @@
 ### test and prototype code memos
 
 - testコードや、プロトタイプのコード群の置き場所
+- bode.md
+  - ただの自己紹介
 
 ### cpp
 - /dispatcher.cpp
