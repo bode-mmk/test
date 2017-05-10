@@ -13,3 +13,6 @@
 ### cpp
 - dispatcher.cpp
   - win32系で使おうと思っているスロット形式のイベント管理prototype
+
+- dispatcher2.cpp
+  - dispatcherで使ってる`has_mouse_event`の引数型指定を抽象化しようとしてみたもの
