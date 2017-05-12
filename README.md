@@ -16,3 +16,6 @@
 
 - dispatcher2.cpp
   - dispatcherで使ってる`has_mouse_event`の引数型指定を抽象化しようとしてみたもの
+
+- conditional_helpers.cpp
+  - `if`を楽して書きたいという試行錯誤
