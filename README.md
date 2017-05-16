@@ -19,3 +19,7 @@
 
 - conditional_helpers.cpp
   - `if`を楽して書きたいという試行錯誤
+
+- numeric_cast.cpp
+  - 文字列型を数値型に変換するだけ `boost::lexical_cast`を参考にえらくシンプルにしようとあがいたもの
+  - `optional`を使ってるので環境に応じて`boost::optional`使うなりしなければならない
