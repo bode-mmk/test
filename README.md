@@ -32,3 +32,7 @@
 
 - chrono_time_get.cpp
   - `#include <chrono>`だけで現在時刻を取得することは出来るだろうか。という試み
+
+### perl
+- unused_comment_outer.pl
+  - Visual Studio 2017で大量に`C4100`のwarningが出てきた時用に一気にコメントアウトする自分用ツール
