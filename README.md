@@ -36,3 +36,6 @@
 ### perl
 - unused_comment_outer.pl
   - Visual Studio 2017で大量に`C4100`のwarningが出てきた時用に一気にコメントアウトする自分用ツール
+
+- automatic_issue_creator.pl
+  - github APIを使用してissueを作成するサンプル
