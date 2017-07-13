@@ -37,6 +37,15 @@
   - `std::vector`を多次元に拡張する時、`vector<vector<vector<...`などと書くのは冗長である
   - それを無くそうとした試み
 
+- tuple_extract_practice.cpp
+  - `std::tuple`を逐次展開してみたかった練習
+  - 最終的に某先生に助けてもらった
+
+- operator_overalod_prac.cpp
+  - operator overloadの練習も兼ねている
+  - if文における`(value == 2) || (value == 3)...`みたいなcaseの出来損ないをスマートに書けるように努力したもの
+  - scoped enum使った時にerror constantになってしまう
+
 ### perl
 - unused_comment_outer.pl
   - Visual Studio 2017で大量に`C4100`のwarningが出てきた時用に一気にコメントアウトする自分用ツール
