@@ -46,6 +46,9 @@
   - if文における`(value == 2) || (value == 3)...`みたいなcaseの出来損ないをスマートに書けるように努力したもの
   - scoped enum使った時にerror constantになってしまう
 
+- windows_restart.cpp
+  - Windowsで再起動をかけるときに使うコード
+
 ### perl
 - unused_comment_outer.pl
   - Visual Studio 2017で大量に`C4100`のwarningが出てきた時用に一気にコメントアウトする自分用ツール
