@@ -49,6 +49,9 @@
 - windows_restart.cpp
   - Windowsで再起動をかけるときに使うコード
 
+- variable_template_bug.cpp
+  - Visual Studio 2017のインテリセンスは変数テンプレートに弱い（確信）
+
 ### perl
 - unused_comment_outer.pl
   - Visual Studio 2017で大量に`C4100`のwarningが出てきた時用に一気にコメントアウトする自分用ツール
